@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chart-js-playground"
+    }
+  },
+  "defaultProject": "chart-js-playground",
+  "cli": {
+    "analytics": "ebb2bf2b-fd62-493b-9116-17626bb937fc"
+  }
 }
